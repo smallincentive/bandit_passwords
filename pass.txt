@@ -1,0 +1,5 @@
+# bandit_passwords
+
+7: HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
+8: cvX2JJa4CFALtqS87jk27qwqGhBM9plV
+9: UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
